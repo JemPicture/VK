@@ -1,0 +1,13 @@
+F:\Проекты\VK\VK\bin\Release\VK.exe.config
+F:\Проекты\VK\VK\obj\Release\MainWindow.g.cs
+F:\Проекты\VK\VK\obj\Release\App.g.cs
+F:\Проекты\VK\VK\obj\Release\VK_MarkupCompile.cache
+F:\Проекты\VK\VK\obj\Release\VK_MarkupCompile.lref
+F:\Проекты\VK\VK\obj\Release\MainWindow.baml
+F:\Проекты\VK\VK\obj\Release\VK.g.resources
+F:\Проекты\VK\VK\obj\Release\VK.pdb
+F:\Проекты\VK\VK\bin\Release\VK.exe
+F:\Проекты\VK\VK\bin\Release\VK.pdb
+F:\Проекты\VK\VK\obj\Release\VK.Properties.Resources.resources
+F:\Проекты\VK\VK\obj\Release\VK.csproj.GenerateResource.Cache
+F:\Проекты\VK\VK\obj\Release\VK.exe

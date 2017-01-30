@@ -1,0 +1,14 @@
+F:\Проекты\VK\VK\bin\Debug\VK.exe.config
+F:\Проекты\VK\VK\bin\Debug\VK.exe
+F:\Проекты\VK\VK\bin\Debug\VK.pdb
+F:\Проекты\VK\VK\obj\Debug\VK.csprojResolveAssemblyReference.cache
+F:\Проекты\VK\VK\obj\Debug\MainWindow.g.cs
+F:\Проекты\VK\VK\obj\Debug\App.g.cs
+F:\Проекты\VK\VK\obj\Debug\VK_MarkupCompile.cache
+F:\Проекты\VK\VK\obj\Debug\VK_MarkupCompile.lref
+F:\Проекты\VK\VK\obj\Debug\MainWindow.baml
+F:\Проекты\VK\VK\obj\Debug\VK.g.resources
+F:\Проекты\VK\VK\obj\Debug\VK.Properties.Resources.resources
+F:\Проекты\VK\VK\obj\Debug\VK.csproj.GenerateResource.Cache
+F:\Проекты\VK\VK\obj\Debug\VK.exe
+F:\Проекты\VK\VK\obj\Debug\VK.pdb
